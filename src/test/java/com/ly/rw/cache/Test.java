@@ -14,5 +14,9 @@ public class Test {
 	public void test(){
 		System.out.println("aasasasas");
 	}
+	
+	public void test02(){
+		System.out.println("22222222222222222");
+	}
 }
 
