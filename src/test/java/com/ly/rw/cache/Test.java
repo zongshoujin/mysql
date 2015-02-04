@@ -22,11 +22,21 @@ public class Test {
 	public void test03(){
 		System.out.println("this is mehtod test03 this is test");
 		System.out.println("333333333333");
+		System.out.println("after method test03");
+		System.out.println(getString("World"));
 	}
 	
 	public void test04(){
 		System.out.println("this is test04 method");
 		System.out.println("333333333333");
+	}
+	
+	public static String getString(String str){
+		if(str == null || "".equals(str)){
+			return "";
+		}
+		
+		return "Hello "+str;
 	}
 }
 
