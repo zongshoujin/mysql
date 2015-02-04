@@ -23,5 +23,10 @@ public class Test {
 		System.out.println("this is mehtod test03");
 		System.out.println("333333333333");
 	}
+	
+	public void test04(){
+		System.out.println("this is test04 method");
+		System.out.println("333333333333");
+	}
 }
 
