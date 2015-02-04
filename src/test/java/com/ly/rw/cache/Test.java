@@ -35,7 +35,7 @@ public class Test {
 		if(str == null || "".equals(str)){
 			return "hahah";
 		}
-		
+		System.out.println("asasasaaasasas");
 		return "Hello "+str;
 	}
 }
