@@ -33,7 +33,7 @@ public class Test {
 	
 	public static String getString(String str){
 		if(str == null || "".equals(str)){
-			return "";
+			return "hahah";
 		}
 		
 		return "Hello "+str;
