@@ -29,7 +29,7 @@ public class FIFOCacheTest {
 	@Test
 	public void testLRUCache(){
 		LRUCache cache = new LRUCache();
-		cache.put("hello", "world");
+		cache.put("hello", "world1212");
 	}
 }
 
