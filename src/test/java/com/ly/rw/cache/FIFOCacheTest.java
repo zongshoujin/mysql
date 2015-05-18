@@ -31,10 +31,5 @@ public class FIFOCacheTest {
 		LRUCache cache = new LRUCache();
 		cache.put("hello", "world");
 	}
-	
-	@Test
-	public void test01(){
-		System.out.println("aaaaaa");
-	}
 }
 
