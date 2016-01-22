@@ -19,6 +19,10 @@ public class Test {
 		System.out.println("22222222222222222");
 	}
 	
+	public void test05(){
+		System.out.println("555555555555555555555");
+	}
+	
 	public void test03(){
 		System.out.println("this is mehtod test03 this is test");
 		System.out.println("333333333333");
