@@ -23,6 +23,10 @@ public class Test {
 		System.out.println("555555555555555555555");
 	}
 	
+	public void test07(){
+		System.out.println("77777777777777777777777");
+	}
+	
 	public void test03(){
 		System.out.println("this is mehtod test03 this is test");
 		System.out.println("333333333333");
@@ -33,10 +37,6 @@ public class Test {
 	public void test04(){
 		System.out.println("this is test04 method");
 		System.out.println("333333333333");
-	}
-	
-	public void test06(){
-		System.out.println("6666666666666666666666");
 	}
 	
 	public static String getString(String str){
